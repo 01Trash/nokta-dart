@@ -1,3 +1,3 @@
-# nnoktaapp
+# noktaapp
 
 Nokta app denemeleri..
