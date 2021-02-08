@@ -1,1 +1,3 @@
-# nokta-dart
+# nnoktaapp
+
+Nokta app denemeleri..
